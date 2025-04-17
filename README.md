@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 Testing Github changes from PC.
 
 Testing Github changes from Nkosana's S24 Ultra. 
+
+Another simple line change for Commit & Pull test vibes.
